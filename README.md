@@ -1,2 +1,0 @@
-# curso-frontend
-introducao frontend
